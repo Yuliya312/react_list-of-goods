@@ -1,0 +1,1 @@
+{"version":3,"sources":["GoodList.css"],"names":[],"mappings":"AAAA,OACE,iBAAkB,CAClB,kBAAmB,CACnB,qBAAsB,CACtB,YACF","file":"main.e790e00f.chunk.css","sourcesContent":["button {\n  margin-right: 15px;\n  border-radius: 10px;\n  border: 1px solid gray;\n  outline: none;\n}\n"]}
